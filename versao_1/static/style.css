@@ -1,0 +1,15 @@
+#tabela {
+    border-collapse: collapse;
+}
+
+#tabela td, #tabela th {
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    padding: 5px;
+    text-align: center;
+}
+
+#agendamento {
+    display: none;
+}
