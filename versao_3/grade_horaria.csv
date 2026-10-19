@@ -1,0 +1,301 @@
+dia,laboratorio,horario,disciplina_professor
+Segunda,LAB. A,07:00-07:40,ES DS304 Ana Luísa
+Segunda,LAB. A,07:40-08:20,ES DS304 Ana Luísa
+Segunda,LAB. A,08:20-09:00,ES DS304 Ana Luísa
+Segunda,LAB. A,09:00-09:40,ES DS304 Ana Luísa
+Segunda,LAB. A,10:00-10:40,LPIV DS304 João Pedro
+Segunda,LAB. A,10:40-11:20,LPIV DS304 João Pedro
+Segunda,LAB. A,11:20-12:00,LIVRE
+Segunda,LAB. A,12:00-13:00,LIVRE
+Segunda,LAB. A,13:00-13:40,INFOADM1 João Pedro
+Segunda,LAB. A,13:40-14:20,INFOADM1 João Pedro
+Segunda,LAB. A,14:20-15:00,INFOADM2 João Pedro
+Segunda,LAB. A,15:20-16:00,INFOADM2 João Pedro
+Segunda,LAB. A,16:00-16:40,INFOADM2 João Pedro
+Segunda,LAB. A,16:40-17:20,LIVRE
+Segunda,LAB. A,17:20-18:00,LIVRE
+Segunda,LAB. B,07:00-07:40,LIVRE
+Segunda,LAB. B,07:40-08:20,LPI DS108 João Pedro
+Segunda,LAB. B,08:20-09:00,LPI DS108 João Pedro
+Segunda,LAB. B,09:00-09:40,LPI DS108 João Pedro
+Segunda,LAB. B,10:00-10:40,ICC DS108 Eduardo
+Segunda,LAB. B,10:40-11:20,ICC DS108 Eduardo
+Segunda,LAB. B,11:20-12:00,ICC DS108 Eduardo
+Segunda,LAB. B,12:00-13:00,LIVRE
+Segunda,LAB. B,13:00-13:40,LIVRE
+Segunda,LAB. B,13:40-14:20,LIVRE
+Segunda,LAB. B,14:20-15:00,ADM Renata
+Segunda,LAB. B,15:20-16:00,ADM Renata
+Segunda,LAB. B,16:00-16:40,ADM Renata
+Segunda,LAB. B,16:40-17:20,LIVRE
+Segunda,LAB. B,17:20-18:00,LIVRE
+Segunda,LAB. C,07:00-07:40,LIVRE
+Segunda,LAB. C,07:40-08:20,ICC DS106 Eduardo
+Segunda,LAB. C,08:20-09:00,ICC DS106 Eduardo
+Segunda,LAB. C,09:00-09:40,ICC DS106 Eduardo
+Segunda,LAB. C,10:00-10:40,LPI DS106 Viviane
+Segunda,LAB. C,10:40-11:20,LPI DS106 Viviane
+Segunda,LAB. C,11:20-12:00,LPI DS106 Viviane
+Segunda,LAB. C,12:00-13:00,ProjAncMov. Viviane
+Segunda,LAB. C,13:00-13:40,LIVRE
+Segunda,LAB. C,13:40-14:20,LIVRE
+Segunda,LAB. C,14:20-15:00,LIVRE
+Segunda,LAB. C,15:20-16:00,LIVRE
+Segunda,LAB. C,16:00-16:40,LIVRE
+Segunda,LAB. C,16:40-17:20,LIVRE
+Segunda,LAB. C,17:20-18:00,LIVRE
+Segunda,LAB. Rob.,07:00-07:40,LIVRE
+Segunda,LAB. Rob.,07:40-08:20,LIVRE
+Segunda,LAB. Rob.,08:20-09:00,LIVRE
+Segunda,LAB. Rob.,09:00-09:40,LIVRE
+Segunda,LAB. Rob.,10:00-10:40,ProjOlimpic
+Segunda,LAB. Rob.,10:40-11:20,ProjOlimpic
+Segunda,LAB. Rob.,11:20-12:00,ProjOlimpic
+Segunda,LAB. Rob.,12:00-13:00,LIVRE
+Segunda,LAB. Rob.,13:00-13:40,LIVRE
+Segunda,LAB. Rob.,13:40-14:20,LIVRE
+Segunda,LAB. Rob.,14:20-15:00,LIVRE
+Segunda,LAB. Rob.,15:20-16:00,LIVRE
+Segunda,LAB. Rob.,16:00-16:40,LIVRE
+Segunda,LAB. Rob.,16:40-17:20,LIVRE
+Segunda,LAB. Rob.,17:20-18:00,LIVRE
+Terca,LAB. A,07:00-07:40,LIVRE
+Terca,LAB. A,07:40-08:20,ICC - DS106 Eduardo
+Terca,LAB. A,08:20-09:00,ICC - DS106 Eduardo
+Terca,LAB. A,09:00-09:40,ICC - DS106 Eduardo
+Terca,LAB. A,10:00-10:40,LPI - DS106 Viviane
+Terca,LAB. A,10:40-11:20,LPI - DS106 Viviane
+Terca,LAB. A,11:20-12:00,LPI - DS106 Viviane
+Terca,LAB. A,12:00-13:00,LIVRE
+Terca,LAB. A,13:00-13:40,LIVRE
+Terca,LAB. A,13:40-14:20,LIVRE
+Terca,LAB. A,14:20-15:00,LIVRE
+Terca,LAB. A,15:20-16:00,LIVRE
+Terca,LAB. A,16:00-16:40,LIVRE
+Terca,LAB. A,16:40-17:20,LIVRE
+Terca,LAB. A,17:20-18:00,LIVRE
+Terca,LAB. B,07:00-07:40,LIVRE
+Terca,LAB. B,07:40-08:20,LPI - DS108 João Pedro
+Terca,LAB. B,08:20-09:00,LPI - DS108 João Pedro
+Terca,LAB. B,09:00-09:40,LPI - DS108 João Pedro
+Terca,LAB. B,10:00-10:40,ICC - DS108 Eduardo
+Terca,LAB. B,10:40-11:20,ICC - DS108 Eduardo
+Terca,LAB. B,11:20-12:00,ICC - DS108 Eduardo
+Terca,LAB. B,12:00-13:00,LIVRE
+Terca,LAB. B,13:00-13:40,LIVRE
+Terca,LAB. B,13:40-14:20,LIVRE
+Terca,LAB. B,14:20-15:00,LIVRE
+Terca,LAB. B,15:20-16:00,LIVRE
+Terca,LAB. B,16:00-16:40,LIVRE
+Terca,LAB. B,16:40-17:20,LIVRE
+Terca,LAB. B,17:20-18:00,LIVRE
+Terca,LAB. C,07:00-07:40,LIVRE
+Terca,LAB. C,07:40-08:20,LPII - DS206 Ana Luísa
+Terca,LAB. C,08:20-09:00,LPII - DS206 Ana Luísa
+Terca,LAB. C,09:00-09:40,LPII - DS206 Ana Luísa
+Terca,LAB. C,10:00-10:40,BD - DS206 João Pedro
+Terca,LAB. C,10:40-11:20,BD - DS206 João Pedro
+Terca,LAB. C,11:20-12:00,BD - DS206 João Pedro
+Terca,LAB. C,12:00-13:00,LIVRE
+Terca,LAB. C,13:00-13:40,LIVRE
+Terca,LAB. C,13:40-14:20,LIVRE
+Terca,LAB. C,14:20-15:00,LIVRE
+Terca,LAB. C,15:20-16:00,LIVRE
+Terca,LAB. C,16:00-16:40,LIVRE
+Terca,LAB. C,16:40-17:20,LIVRE
+Terca,LAB. C,17:20-18:00,LIVRE
+Terca,LAB. Rob.,07:00-07:40,LIVRE
+Terca,LAB. Rob.,07:40-08:20,LIVRE
+Terca,LAB. Rob.,08:20-09:00,LIVRE
+Terca,LAB. Rob.,09:00-09:40,LIVRE
+Terca,LAB. Rob.,10:00-10:40,LIVRE
+Terca,LAB. Rob.,10:40-11:20,LIVRE
+Terca,LAB. Rob.,11:20-12:00,LIVRE
+Terca,LAB. Rob.,12:00-13:00,LIVRE
+Terca,LAB. Rob.,13:00-13:40,LIVRE
+Terca,LAB. Rob.,13:40-14:20,LIVRE
+Terca,LAB. Rob.,14:20-15:00,LIVRE
+Terca,LAB. Rob.,15:20-16:00,LIVRE
+Terca,LAB. Rob.,16:00-16:40,LIVRE
+Terca,LAB. Rob.,16:40-17:20,LIVRE
+Terca,LAB. Rob.,17:20-18:00,LIVRE
+Quarta,LAB. A,07:00-07:40,LIVRE
+Quarta,LAB. A,07:40-08:20,LIVRE
+Quarta,LAB. A,08:20-09:00,LIVRE
+Quarta,LAB. A,09:00-09:40,LIVRE
+Quarta,LAB. A,10:00-10:40,Ciência DElas
+Quarta,LAB. A,10:40-11:20,Ciência DElas
+Quarta,LAB. A,11:20-12:00,Ciência DElas
+Quarta,LAB. A,12:00-13:00,PAnc. Mov. Viviane
+Quarta,LAB. A,13:00-13:40,LIVRE
+Quarta,LAB. A,13:40-14:20,LIVRE
+Quarta,LAB. A,14:20-15:00,LIVRE
+Quarta,LAB. A,15:20-16:00,LIVRE
+Quarta,LAB. A,16:00-16:40,LIVRE
+Quarta,LAB. A,16:40-17:20,LIVRE
+Quarta,LAB. A,17:20-18:00,LIVRE
+Quarta,LAB. B,07:00-07:40,Inf Educat Ciel
+Quarta,LAB. B,07:40-08:20,Inf Educat Ciel
+Quarta,LAB. B,08:20-09:00,Inf Educat Ciel
+Quarta,LAB. B,09:00-09:40,Inf Educat Ciel
+Quarta,LAB. B,10:00-10:40,Inf Educat Ciel
+Quarta,LAB. B,10:40-11:20,Inf Educat Ciel
+Quarta,LAB. B,11:20-12:00,Inf Educat Ciel
+Quarta,LAB. B,12:00-13:00,LIVRE
+Quarta,LAB. B,13:00-13:40,Inf Educat Ciel
+Quarta,LAB. B,13:40-14:20,Inf Educat Ciel
+Quarta,LAB. B,14:20-15:00,Inf Educat Ciel
+Quarta,LAB. B,15:20-16:00,LIVRE
+Quarta,LAB. B,16:00-16:40,LIVRE
+Quarta,LAB. B,16:40-17:20,LIVRE
+Quarta,LAB. B,17:20-18:00,LIVRE
+Quarta,LAB. C,07:00-07:40,LIVRE
+Quarta,LAB. C,07:40-08:20,LIVRE
+Quarta,LAB. C,08:20-09:00,LIVRE
+Quarta,LAB. C,09:00-09:40,LIVRE
+Quarta,LAB. C,10:00-10:40,LIVRE
+Quarta,LAB. C,10:40-11:20,LIVRE
+Quarta,LAB. C,11:20-12:00,LIVRE
+Quarta,LAB. C,12:00-13:00,LIVRE
+Quarta,LAB. C,13:00-13:40,LIVRE
+Quarta,LAB. C,13:40-14:20,LIVRE
+Quarta,LAB. C,14:20-15:00,LIVRE
+Quarta,LAB. C,15:20-16:00,LIVRE
+Quarta,LAB. C,16:00-16:40,LIVRE
+Quarta,LAB. C,16:40-17:20,LIVRE
+Quarta,LAB. C,17:20-18:00,LIVRE
+Quarta,LAB. Rob.,07:00-07:40,LIVRE
+Quarta,LAB. Rob.,07:40-08:20,LIVRE
+Quarta,LAB. Rob.,08:20-09:00,LIVRE
+Quarta,LAB. Rob.,09:00-09:40,LIVRE
+Quarta,LAB. Rob.,10:00-10:40,LIVRE
+Quarta,LAB. Rob.,10:40-11:20,LIVRE
+Quarta,LAB. Rob.,11:20-12:00,LIVRE
+Quarta,LAB. Rob.,12:00-13:00,LIVRE
+Quarta,LAB. Rob.,13:00-13:40,LIVRE
+Quarta,LAB. Rob.,13:40-14:20,LIVRE
+Quarta,LAB. Rob.,14:20-15:00,LIVRE
+Quarta,LAB. Rob.,15:20-16:00,LIVRE
+Quarta,LAB. Rob.,16:00-16:40,LIVRE
+Quarta,LAB. Rob.,16:40-17:20,LIVRE
+Quarta,LAB. Rob.,17:20-18:00,LIVRE
+Quinta,LAB. A,07:00-07:40,LPIII DS304 Rodrigo Thompson
+Quinta,LAB. A,07:40-08:20,LPIII DS304 Rodrigo Thompson
+Quinta,LAB. A,08:20-09:00,LPIII DS304 Rodrigo Thompson
+Quinta,LAB. A,09:00-09:40,LPIII DS304 Rodrigo Thompson
+Quinta,LAB. A,10:00-10:40,LPIV DS304 João Pedro
+Quinta,LAB. A,10:40-11:20,LPIV DS304 João Pedro
+Quinta,LAB. A,11:20-12:00,LIVRE
+Quinta,LAB. A,12:00-13:00,LIVRE
+Quinta,LAB. A,13:00-13:40,LIVRE
+Quinta,LAB. A,13:40-14:20,LIVRE
+Quinta,LAB. A,14:20-15:00,LIVRE
+Quinta,LAB. A,15:20-16:00,LIVRE
+Quinta,LAB. A,16:00-16:40,LIVRE
+Quinta,LAB. A,16:40-17:20,LIVRE
+Quinta,LAB. A,17:20-18:00,LIVRE
+Quinta,LAB. B,07:00-07:40,LIVRE
+Quinta,LAB. B,07:40-08:20,LPII DS204 Ana Luísa
+Quinta,LAB. B,08:20-09:00,LPII DS204 Ana Luísa
+Quinta,LAB. B,09:00-09:40,LPII DS204 Ana Luísa
+Quinta,LAB. B,10:00-10:40,BD DS204 Rodrigo Thompson
+Quinta,LAB. B,10:40-11:20,BD DS204 Rodrigo Thompson
+Quinta,LAB. B,11:20-12:00,BD DS204 Rodrigo Thompson
+Quinta,LAB. B,12:00-13:00,LIVRE
+Quinta,LAB. B,13:00-13:40,Inf Educat Ciel
+Quinta,LAB. B,13:40-14:20,Inf Educat Ciel
+Quinta,LAB. B,14:20-15:00,Inf Educat Ciel
+Quinta,LAB. B,15:20-16:00,Inf Educat Ciel
+Quinta,LAB. B,16:00-16:40,Inf Educat Ciel
+Quinta,LAB. B,16:40-17:20,LIVRE
+Quinta,LAB. B,17:20-18:00,LIVRE
+Quinta,LAB. C,07:00-07:40,LIVRE
+Quinta,LAB. C,07:40-08:20,BD DS206 João Pedro
+Quinta,LAB. C,08:20-09:00,BD DS206 João Pedro
+Quinta,LAB. C,09:00-09:40,BD DS206 João Pedro
+Quinta,LAB. C,10:00-10:40,LPI DS206 Ana Luísa
+Quinta,LAB. C,10:40-11:20,LPI DS206 Ana Luísa
+Quinta,LAB. C,11:20-12:00,LPI DS206 Ana Luísa
+Quinta,LAB. C,12:00-13:00,LIVRE
+Quinta,LAB. C,13:00-13:40,LIVRE
+Quinta,LAB. C,13:40-14:20,LIVRE
+Quinta,LAB. C,14:20-15:00,LIVRE
+Quinta,LAB. C,15:20-16:00,LIVRE
+Quinta,LAB. C,16:00-16:40,LIVRE
+Quinta,LAB. C,16:40-17:20,LIVRE
+Quinta,LAB. C,17:20-18:00,LIVRE
+Quinta,LAB. Rob.,07:00-07:40,LIVRE
+Quinta,LAB. Rob.,07:40-08:20,LIVRE
+Quinta,LAB. Rob.,08:20-09:00,LIVRE
+Quinta,LAB. Rob.,09:00-09:40,LIVRE
+Quinta,LAB. Rob.,10:00-10:40,LIVRE
+Quinta,LAB. Rob.,10:40-11:20,LIVRE
+Quinta,LAB. Rob.,11:20-12:00,LIVRE
+Quinta,LAB. Rob.,12:00-13:00,LIVRE
+Quinta,LAB. Rob.,13:00-13:40,LIVRE
+Quinta,LAB. Rob.,13:40-14:20,LIVRE
+Quinta,LAB. Rob.,14:20-15:00,LIVRE
+Quinta,LAB. Rob.,15:20-16:00,LIVRE
+Quinta,LAB. Rob.,16:00-16:40,LIVRE
+Quinta,LAB. Rob.,16:40-17:20,LIVRE
+Quinta,LAB. Rob.,17:20-18:00,LIVRE
+Sexta,LAB. A,07:00-07:40,LIVRE
+Sexta,LAB. A,07:40-08:20,LIVRE
+Sexta,LAB. A,08:20-09:00,LIVRE
+Sexta,LAB. A,09:00-09:40,LIVRE
+Sexta,LAB. A,10:00-10:40,LIVRE
+Sexta,LAB. A,10:40-11:20,LIVRE
+Sexta,LAB. A,11:20-12:00,LIVRE
+Sexta,LAB. A,12:00-13:00,LIVRE
+Sexta,LAB. A,13:00-13:40,LIVRE
+Sexta,LAB. A,13:40-14:20,LIVRE
+Sexta,LAB. A,14:20-15:00,LIVRE
+Sexta,LAB. A,15:20-16:00,LIVRE
+Sexta,LAB. A,16:00-16:40,LIVRE
+Sexta,LAB. A,16:40-17:20,LIVRE
+Sexta,LAB. A,17:20-18:00,LIVRE
+Sexta,LAB. B,07:00-07:40,LIVRE
+Sexta,LAB. B,07:40-08:20,BD DS204 Rodrigo Thompson
+Sexta,LAB. B,08:20-09:00,BD DS204 Rodrigo Thompson
+Sexta,LAB. B,09:00-09:40,BD DS204 Rodrigo Thompson
+Sexta,LAB. B,10:00-10:40,LPII DS204 Ana Luísa
+Sexta,LAB. B,10:40-11:20,LPII DS204 Ana Luísa
+Sexta,LAB. B,11:20-12:00,LPII DS204 Ana Luísa
+Sexta,LAB. B,12:00-13:00,LIVRE
+Sexta,LAB. B,13:00-13:40,LIVRE
+Sexta,LAB. B,13:40-14:20,LIVRE
+Sexta,LAB. B,14:20-15:00,LIVRE
+Sexta,LAB. B,15:20-16:00,LIVRE
+Sexta,LAB. B,16:00-16:40,LIVRE
+Sexta,LAB. B,16:40-17:20,LIVRE
+Sexta,LAB. B,17:20-18:00,LIVRE
+Sexta,LAB. C,07:00-07:40,LIVRE
+Sexta,LAB. C,07:40-08:20,LIVRE
+Sexta,LAB. C,08:20-09:00,LIVRE
+Sexta,LAB. C,09:00-09:40,LIVRE
+Sexta,LAB. C,10:00-10:40,LIVRE
+Sexta,LAB. C,10:40-11:20,LIVRE
+Sexta,LAB. C,11:20-12:00,LIVRE
+Sexta,LAB. C,12:00-13:00,LIVRE
+Sexta,LAB. C,13:00-13:40,LIVRE
+Sexta,LAB. C,13:40-14:20,LIVRE
+Sexta,LAB. C,14:20-15:00,LIVRE
+Sexta,LAB. C,15:20-16:00,LIVRE
+Sexta,LAB. C,16:00-16:40,LIVRE
+Sexta,LAB. C,16:40-17:20,LIVRE
+Sexta,LAB. C,17:20-18:00,LIVRE
+Sexta,LAB. Rob.,07:00-07:40,LIVRE
+Sexta,LAB. Rob.,07:40-08:20,LIVRE
+Sexta,LAB. Rob.,08:20-09:00,LIVRE
+Sexta,LAB. Rob.,09:00-09:40,LIVRE
+Sexta,LAB. Rob.,10:00-10:40,LIVRE
+Sexta,LAB. Rob.,10:40-11:20,LIVRE
+Sexta,LAB. Rob.,11:20-12:00,LIVRE
+Sexta,LAB. Rob.,12:00-13:00,LIVRE
+Sexta,LAB. Rob.,13:00-13:40,LIVRE
+Sexta,LAB. Rob.,13:40-14:20,LIVRE
+Sexta,LAB. Rob.,14:20-15:00,LIVRE
+Sexta,LAB. Rob.,15:20-16:00,LIVRE
+Sexta,LAB. Rob.,16:00-16:40,LIVRE
+Sexta,LAB. Rob.,16:40-17:20,LIVRE
+Sexta,LAB. Rob.,17:20-18:00,LIVRE
