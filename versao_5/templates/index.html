@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Reserva de Laboratórios de Informática</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Reserva de Laboratórios de Informática</h1>
+        
+        <div class="controles">
+            <label for="filtro-lab">Escolha o Laboratório:</label>
+            <select id="filtro-lab">
+                <option value="LAB. A">LAB. A</option>
+                <option value="LAB. B">LAB. B</option>
+                <option value="LAB. C">LAB. C</option>
+                <option value="LAB. Rob.">LAB. Rob.</option>
+            </select>
+        </div>
+
+        <div class="tabela-wrapper">
+            <table id="tabela-grade">
+                <thead>
+                    <tr>
+                        <th>Horário</th>
+                        <th>Segunda</th>
+                        <th>Terça</th>
+                        <th>Quarta</th>
+                        <th>Quinta</th>
+                        <th>Sexta</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Preenchido via JavaScript -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div id="modal-reserva" class="modal">
+        <div class="modal-conteudo">
+            <h3>Reservar Horário</h3>
+            <p id="info-slot"></p>
+            <form id="form-reserva">
+                <label for="nome-professor">Nome do Professor:</label>
+                <input type="text" id="nome-professor" required>
+                
+                <label for="data-reserva">Data da Reserva<br>(Até 1 semana de antecedência):</label>
+                <input type="date" id="data-reserva" required>
+                
+                <div class="botoes-modal">
+                    <button type="submit" class="btn-confirmar">Confirmar</button>
+                    <button type="button" id="fechar-modal" class="btn-cancelar">Cancelar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
