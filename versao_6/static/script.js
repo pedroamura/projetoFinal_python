@@ -2,7 +2,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const selectLab = document.getElementById("filtro-lab");
     const tabelaCorpo = document.querySelector("#tabela-grade tbody");
 
-    // Modais e formulários
     const modalReserva = document.getElementById("modal-reserva");
     const fecharModalBtn = document.getElementById("fechar-modal");
     const formReserva = document.getElementById("form-reserva");
