@@ -134,7 +134,6 @@ document.addEventListener("DOMContentLoaded", () => {
     fecharModalBtn.onclick = () => { modalReserva.style.display = "none"; };
     fecharModalCancelarBtn.onclick = () => { modalCancelar.style.display = "none"; };
 
-    // Submissão do formulário de criação de reserva
     formReserva.onsubmit = async (e) => {
         e.preventDefault();
         const matricula = document.getElementById("matricula-professor").value.trim();
@@ -177,7 +176,6 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     };
 
-    // Submissão do formulário de cancelamento
     formCancelar.onsubmit = async (e) => {
         e.preventDefault();
         const matricula = document.getElementById("matricula-cancelar").value.trim();
