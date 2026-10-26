@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Reserva de Laboratórios de Informática</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Reserva de Laboratórios de Informática</h1>
+        
+        <div class="controles">
+            <label for="filtro-lab">Escolha o Laboratório:</label>
+            <select id="filtro-lab">
+                <option value="LAB. A">LAB. A</option>
+                <option value="LAB. B">LAB. B</option>
+                <option value="LAB. C">LAB. C</option>
+                <option value="LAB. Rob.">LAB. Rob.</option>
+            </select>
+        </div>
+
+        <div class="tabela-wrapper">
+            <table id="tabela-grade">
+                <thead>
+                    <tr>
+                        <th>Horário</th>
+                        <th>Segunda <span class="data-header" id="data-Segunda"></span></th>
+                        <th>Terça <span class="data-header" id="data-Terca"></span></th>
+                        <th>Quarta <span class="data-header" id="data-Quarta"></span></th>
+                        <th>Quinta <span class="data-header" id="data-Quinta"></span></th>
+                        <th>Sexta <span class="data-header" id="data-Sexta"></span></th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div id="modal-reserva" class="modal">
+        <div class="modal-conteudo">
+            <h3>Reservar Horário</h3>
+            <p id="info-slot"></p>
+            <form id="form-reserva">
+                <label for="matricula-professor">Matrícula do Professor:</label>
+                <input type="text" id="matricula-professor" required placeholder="Ex: M--------">
+                
+                <div class="botoes-modal">
+                    <button type="submit" class="btn-confirmar">Confirmar</button>
+                    <button type="button" id="fechar-modal" class="btn-cancelar">Cancelar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div id="modal-cancelar" class="modal" style="display:none;">
+        <div class="modal-conteudo">
+            <h3>Cancelar Reserva</h3>
+            <p id="info-slot-cancelar"></p>
+            <form id="form-cancelar">
+                <label for="matricula-cancelar">Informe sua Matrícula para confirmar:</label>
+                <input type="text" id="matricula-cancelar" required placeholder="Digite sua matrícula">
+
+                <div class="botoes-modal">
+                    <button type="submit" class="btn-confirmar" style="background-color: #d9534f;">Confirmar Cancelamento</button>
+                    <button type="button" id="fechar-modal-cancelar" class="btn-cancelar">Voltar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
